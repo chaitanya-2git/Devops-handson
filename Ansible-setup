@@ -1,3 +1,7 @@
+--download and installing the ansible in the ec2 instance---
+
+\\-create a 3 instances one is the control node and 2 target nodes 
+
 # Update package list
 sudo apt update
 
